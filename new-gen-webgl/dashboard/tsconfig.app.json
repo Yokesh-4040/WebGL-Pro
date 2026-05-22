@@ -6,6 +6,10 @@
     "module": "esnext",
     "types": ["vite/client"],
     "skipLibCheck": true,
+    "paths": {
+      "convex": ["./node_modules/convex"],
+      "convex/*": ["./node_modules/convex/*"]
+    },
 
     /* Bundler mode */
     "moduleResolution": "bundler",

@@ -1,0 +1,32 @@
+/* 
+   Unity WebGL Mobile Responsive Fix 
+   Applied dynamically by WebGL QA Suite
+*/
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden !important;
+    background-color: #000;
+}
+
+#unity-container {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    margin: 0 !important;
+}
+
+#unity-canvas {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+/* Hide standard desktop template header/footer if they exist */
+.webgl-logo, .title, .footer {
+    display: none !important;
+}

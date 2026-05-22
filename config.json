@@ -1,0 +1,51 @@
+{
+  "ftp_host": "ftp.unitydev.in",
+  "ftp_user": "u293850383.unitywebgl",
+  "ftp_pass": "UnityWebgl!4040",
+  "base_dir": "ixr",
+  "projects": {
+    "bits_exp_1": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/CompressiveStrength_Bricks/Test_023"
+    },
+    "bits_exp_2": {
+      "build_folder": "/Users/Yokesh_Work/Downloads/Compaction Factor-1"
+    },
+    "bits_exp_8": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/Vee-Bee-Consistometer/Test_002"
+    },
+    "exp_15": {
+      "build_folder": "/Users/Yokesh_Work/Downloads/WaterAbsorptionEfflorescence"
+    },
+    "compression_brick": {
+      "build_folder": ""
+    },
+    "exp_13": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/NDT_ReboundHammer/Test_005"
+    },
+    "exp_14": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/NDT_UltrasonicPulseVelocity/test_01"
+    },
+    "exp_10": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/Slump-Cone-Test/Test_006"
+    },
+    "split_tensil": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/Split-Tensile-Strength/Test_004"
+    },
+    "Tensile_Test": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/TensionTest/Test_002"
+    },
+    "dummy_Test": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/iXR/Slump-Cone-Test/Test_004"
+    },
+    "exp_11": {
+      "build_folder": "/Users/Yokesh_Work/Desktop/Thangam Hospitals/CompressiveStrength_of_Concrete/final_006"
+    },
+    "soil_analysis": {
+      "build_folder": "/Users/Yokesh_Work/Downloads/Soil Analysis WebGL"
+    }
+  },
+  "ftp_domain": "unitydev.in",
+  "inject_mode": "none",
+  "upload_mode": "full",
+  "upload_htaccess": true
+}
